@@ -1,13 +1,13 @@
-# Furious-Otters 🦦🚀
+# Furious-Otters
 
-A next-gen solution crafted for Hackfest25 to tackle real-world problems using innovative tech.  
-We're currently building the core system architecture, integrating smart sensors, cloud analytics, and automation modules.
+A next-gen solution crafted for Hackfest25 to tackle real-world problems.
 
-## 💡 What's cooking?
-- Hardware prototyping in progress
+We're currently building the core system architecture, integrating software and hardware components.
+
+## What's in progress
+- Hardware prototyping
 - Backend architecture setup
-- Team research on optimization & scalability
+- Team research on optimization and scalability
 - GPT-assisted code and data workflows
 
-Stay tuned for more technical updates, documentation, and deployment guides.  
-_Because otters don’t just float — they innovate._ 😎✨
+Stay tuned for more technical updates, documentation, and deployment progress.
